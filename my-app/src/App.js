@@ -13,7 +13,7 @@ function App() {
       <Route path='/' element={<Home/>}/>
       <Route path='/about' element={<AboutUs/>}/>
       <Route path='/hook' element={<HookTm/>}/>
-      
+      {/* added a comment */}
       
       </Routes>
       </BrowserRouter>
