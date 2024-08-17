@@ -1,0 +1,21 @@
+[{
+    "0":{
+    "name":"hello" ,
+    "roll":2,
+    "address":{
+        "city":"kathmandu",
+        "country":"Nepal"
+    }
+
+    },
+    "1":{
+        "name":"shyam" ,
+        "roll":3,
+        "address":{
+                "city":"Tokyo",
+                "country":"Japan"
+        }
+
+    }
+
+}]
